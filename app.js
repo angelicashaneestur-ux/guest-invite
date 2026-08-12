@@ -50,7 +50,6 @@
         headers: { 'Content-Type': 'text/plain;charset=utf-8' },
         body: JSON.stringify({
           name: state.guestName || 'Guest',
-          source: 'guest',
           response,
           guestCount: state.guestCount,
           timestamp: new Date().toISOString(),

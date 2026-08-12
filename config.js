@@ -5,7 +5,7 @@ const CONFIG = {
   // Paste the "Web app URL" you get after deploying a Google Apps Script
   // web app bound to a fresh Google Sheet (same process as the godparent
   // site's rsvp-backend/README.md). Leave blank to disable RSVP recording.
-  rsvpEndpoint: '',
+  rsvpEndpoint: 'https://script.google.com/macros/s/AKfycbxg6xSXGSbejulcEg7UPTfnGftjB7X-kMgIhQT_DoTFvkG-3NTCUMdA9P4Wol6lBRvW/exec',
 
   // Path/URL to a background music track (mp3). Starts on the "Open Invitation"
   // tap and loops with a small mute button. Leave blank to disable.

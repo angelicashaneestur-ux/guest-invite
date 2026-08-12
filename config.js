@@ -9,7 +9,7 @@ const CONFIG = {
 
   // Path/URL to a background music track (mp3). Starts on the "Open Invitation"
   // tap and loops with a small mute button. Leave blank to disable.
-  backgroundMusicUrl: '',
+  backgroundMusicUrl: 'assets/musicinmedia-piano-for-babies-60-seconds-359367.mp3',
 
   event: {
     childName: 'John Eli Sebastian',
